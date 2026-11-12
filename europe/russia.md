@@ -125,8 +125,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Barnaul
 
 * Barnaul, home public node, operated by [belomaxorka](https://github.com/belomaxorka), IPv4 only
-  * `tls://128.0.25.252:7743`
-  * `quic://128.0.25.252:7743`
+  * `tls://ygg.ansable.cc:7743`
+  * `quic://ygg.ansable.cc:7743`
 
 ### Yekaterinburg
 
